@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
 
-# Oh would you look at this.
-* It's a baron wasteland here!!
+# Status
 
-## My Projects
-Just look at my github repos what are you here for?
+Expiramental content will be added soon.
+how soon?
+nobody knows.
